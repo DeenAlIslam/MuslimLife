@@ -10,8 +10,9 @@
 
 # Masnun Dua
 
-| Intention | Dua | Quanitity | Meaning | Surah | Ayah |
+| Intention | Dua | Quantity | Meaning | Surah | Ayah |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  | Rabbiighfir warham wa anta khayrur Rahimeen. |  | My Lord, forgive and have mercy. You are the best of the merciful | 23 | 118 |
-
+| Success | Rabbana atina fid dunya hasanatan wa fil Aakhirati hasanatan waqina ‘adhaban-nar. | | Our Lord! Give us good in the world and good in the Hereafter, and save us from the punishment of fire. | 2 | 201 |
+|  | Rabbiighfir warham wa anta khairur Rahimeen. |  | My Lord! forgive and have mercy. You are the best of the merciful. | 23 | 118 |
+|  | Rabbi inni lima anjalta ilaiya
 
