@@ -9,7 +9,7 @@
 - [Eat](#eat)
 - [Drink](#drink)
 - [Sneezing](#sneezing)
-- [burp](#burp)
+- [Burp](#burp)
 
 
 
