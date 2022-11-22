@@ -11,6 +11,7 @@
   - [Dua for Fever](#dua-for-fever)
   - [Water](#water)
 - [Pain](#pain)
+  - [Dua for Pain](#dua-for-pain)
 - [Epidemic](#epidemic)
   - [Quarantine](#quarantine)
 - [Ruqya](#ruqya)
@@ -54,10 +55,15 @@ A man came to the Prophet (ﷺ) and said, "My brother has some Abdominal trouble
 ### Water
 
 > The Prophet (ﷺ) said, "Fever is from the heat of Hell, so abate fever with water." [Bukhari 5725](https://sunnah.com/bukhari:5725)
+ 
 > Whenever a lady suffering from fever was brought to Asma' bint Abu Bakr, she used to invoke Allah for her and then sprinkle some water on her body, at the chest and say, "Allah's Messenger (ﷺ) used to order us to abate fever with water." [Bukhari 5724](https://sunnah.com/bukhari:5724)
-> 
+
 
 ## Pain 
+
+### Dua for Pain
+
+> I came to the Prophet (ﷺ) and I was suffering pain that was killing me. The Prophet (ﷺ) said to me: "Put your right hand on it and say: Bismillah, a’udhu bi’izzatil-lahi wa qudratihi min sharri ma ajidu wa uhadhiru. (In the Name of Allah, I seek refuge in the might and power of Allah from the evil of what I feel and what I fear)," seven times. I said that, and Allah healed me. [Ibne Majah 3522](https://sunnah.com/ibnmajah:3522)
 
 ## Epidemic
 
