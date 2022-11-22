@@ -5,6 +5,8 @@
   - [Hinna](#hinna)
 - [Headache](#headache)
   - [Cupping](#cupping)
+- [Stomach Problem](#stomach-problem)
+  - [Honey](#honey)
 - [Fever](#fever)
 - [Pain](#pain)
 - [Ruqya](#ruqya)
@@ -34,6 +36,19 @@ It is Sunnah to consult Professional Educated Doctor in case of medicle need.
 ### Cupping 
 
 "No one complained to the Messenger of Allah (ﷺ) of a headache but he told him to get himself cupped, or of a pain in his legs but he told him to dye them with henna." [Abu Daud 3858](https://sunnah.com/abudawud:3858)
+
+## Stomach Problem 
+
+### Honey
+
+A man came to the Prophet (ﷺ) and said, "My brother has some Abdominal trouble." The Prophet (ﷺ) said to him "Let him drink honey." The man came for the second time and the Prophet (ﷺ) said to him, 'Let him drink honey." He came for the third time and the Prophet (ﷺ) said, "Let him drink honey." He returned again and said, "I have done that ' The Prophet (ﷺ) then said, "Allah has said the truth, but your brother's Abdomen has told a lie. Let him drink honey." So he made him drink honey and he was cured. [Bukhari 5684](https://sunnah.com/bukhari:5684)
+
+## Fever 
+
+## Pain 
+
+## Ruqiya
+
 
 
 
