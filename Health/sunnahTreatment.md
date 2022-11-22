@@ -52,6 +52,7 @@ Treatment without prior knowledge is haram (forbidden) in Islam. Don't visit a d
 A man came to the Prophet (ﷺ) and said, "My brother has some Abdominal trouble." The Prophet (ﷺ) said to him "Let him drink honey." The man came for the second time and the Prophet (ﷺ) said to him, 'Let him drink honey." He came for the third time and the Prophet (ﷺ) said, "Let him drink honey." He returned again and said, "I have done that ' The Prophet (ﷺ) then said, "Allah has said the truth, but your brother's Abdomen has told a lie. Let him drink honey." So he made him drink honey and he was cured. [Bukhari 5684](https://sunnah.com/bukhari:5684)
 
 ## Fever 
+> Mention of fever was made in the presence of the Messenger of Allah (ﷺ), and a man cursed it. The Prophet (ﷺ) said: ‘Do not curse it, for it erases sin as fire removes filth from iron. [Ibne Majah 3469](https://sunnah.com/ibnmajah:3469)
 
 ### Dua for Fever
 
