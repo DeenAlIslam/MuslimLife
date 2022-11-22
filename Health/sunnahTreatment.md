@@ -2,7 +2,9 @@
 
 - [Introduction](#introduction)
 - [Wound and Cut](#wound-and-cut)
+  - [Hinna](#hinna)
 - [Headache](#headache)
+  - [Cupping](#cupping)
 - [Fever](#fever)
 - [Pain](#pain)
 - [Ruqya](#ruqya)
@@ -22,7 +24,7 @@ It is Sunnah to consult Professional Educated Doctor in case of medicle need.
 
 ## Wound and Cut
 
-### What Has Been Related About Treating with Hinna (Mehendi)
+### Hinna
 
 'Ali bin 'Ubaidullah narrated that his grandmother [Salma] - who used to serve the The Prophet (S.A.W) said:
 "There was no wound nor cut on the Messenger of Allah (S.A.W) but he would order me to put Hinna (Mehendi) on it." Another chain reports a similar narration. [Jami at Tirimiji 2054](https://sunnah.com/tirmidhi:2054) 
