@@ -4,7 +4,7 @@
 - [Wound and Cut](#wound-and-cut)
   - [Hinna](#hinna)
 - [Headache](#headache)
-  - [Cupping](#cupping)
+  - [Cupping for Headache](#cupping-for-headache)
 - [Stomach Problem](#stomach-problem)
   - [Honey](#honey)
 - [Fever](#fever)
@@ -38,7 +38,7 @@ It is Sunnah to consult Professional Educated Doctor in case of medicle need.
 
 ## Headache
 
-### Cupping 
+### Cupping for Headache
 
 > "No one complained to the Messenger of Allah (ﷺ) of a headache but he told him to get himself cupped, or of a pain in his legs but he told him to dye them with henna." [Abu Daud 3858](https://sunnah.com/abudawud:3858)
 
