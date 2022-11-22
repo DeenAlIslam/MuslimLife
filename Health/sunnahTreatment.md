@@ -2,7 +2,6 @@
 
 - [Introduction](#introduction)
 - [Wound and Cut](#wound-and-cut)
-  - [Hinna](#hinna)
 - [Headache](#headache)
   - [Cupping for Headache](#cupping-for-headache)
 - [Stomach Problem](#stomach-problem)
@@ -33,11 +32,6 @@ Treatment without prior knowledge is haram (forbidden) in Islam. Don't visit a d
 > The Messenger of Allah (ﷺ) said: "Whoever gives medical treatment, with no prior knowledge of medicine, is responsible (for any harm done)." [Ibne Majah 3466](https://sunnah.com/ibnmajah:3466)
 
 ## Wound and Cut
-
-### Hinna
-
-> 'Ali bin 'Ubaidullah narrated that his grandmother [Salma] - who used to serve the The Prophet (S.A.W) said:
-"There was no wound nor cut on the Messenger of Allah (S.A.W) but he would order me to put Hinna (Mehendi) on it." Another chain reports a similar narration. [Jami at Tirimiji 2054](https://sunnah.com/tirmidhi:2054) 
 
 ## Headache
 
