@@ -10,6 +10,7 @@
 - [Fever](#fever)
   - [Dua for Fever](#dua-for-fever)
   - [Water](#water)
+- [Pleurisy](#pleurisy)
 - [Pain](#pain)
   - [Dua for Pain](#dua-for-pain)
 - [Epidemic](#epidemic)
@@ -20,14 +21,16 @@
 
 > The Prophet saw said, "There is no disease that Allah has created, except that He also has created its treatment."  Sahih Al Bukhari Volume 7, Book 71, Number 582     
 
-This is not an alternative to Medical Treatment or replacement of Educated Professional Medicle Doctor. 
-These are some alternatives to follow with medicle treatments. (In some case if medicle treatment fails or with medicle treatment.) 
-I mean Allopathy, Homeopathy or any other modern medicle treatment and medicine by the word Medicle treatment.
+This is not an alternative to Medical Treatment or replacement of Educated Professional Medical Doctor. 
+These are some alternatives to follow with medical treatments. (In some case if medical treatment fails or with medical treatment.) 
+I mean Allopathy, Homeopathy or any other modern medicle treatment and medicine by the word Medical treatment.
 It is Sunnah to consult Professional Educated Doctor in case of medicle need.
 
 > "And ask the people of knowledge when you do not know." [The Noble Quran 16:43]
 
+Treatment without prior knowledge is haram (forbidden) in Islam. Don't visit a doctor who is qualified for treatment. 
 
+> The Messenger of Allah (ﷺ) said: "Whoever gives medical treatment, with no prior knowledge of medicine, is responsible (for any harm done)." [Ibne Majah 3466](https://sunnah.com/ibnmajah:3466)
 
 ## Wound and Cut
 
@@ -58,6 +61,9 @@ A man came to the Prophet (ﷺ) and said, "My brother has some Abdominal trouble
  
 > Whenever a lady suffering from fever was brought to Asma' bint Abu Bakr, she used to invoke Allah for her and then sprinkle some water on her body, at the chest and say, "Allah's Messenger (ﷺ) used to order us to abate fever with water." [Bukhari 5724](https://sunnah.com/bukhari:5724)
 
+## pleurisy
+
+> The Messenger of Allah (ﷺ) said: ‘You should use Indian aloeswood for it contains seven cures, including (a cure for) pleurisy. [Ibne Majah 3468](https://sunnah.com/ibnmajah:3468)
 
 ## Pain 
 
