@@ -63,7 +63,7 @@ A man came to the Prophet (ﷺ) and said, "My brother has some Abdominal trouble
 
 ### Dua for Pain
 
-> I came to the Prophet (ﷺ) and I was suffering pain that was killing me. The Prophet (ﷺ) said to me: "Put your right hand on it and say: Bismillah, a’udhu bi’izzatil-lahi wa qudratihi min sharri ma ajidu wa uhadhiru. (In the Name of Allah, I seek refuge in the might and power of Allah from the evil of what I feel and what I fear)," seven times. I said that, and Allah healed me. [Ibne Majah 3522](https://sunnah.com/ibnmajah:3522)
+> Allah's Messenger (ﷺ) said: Place your hand at the place where you feel pain in your body and say Bismillah (in the name of Allah) three times and seven times A'udhu billahi wa qudratihi min sharri ma ajidu wa uhadhiru (I seek refuge with Allah and with His Power from the evil that I find and that I fear). [Muslim 2202](https://sunnah.com/muslim:2202)
 
 ## Epidemic
 
