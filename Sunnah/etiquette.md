@@ -7,6 +7,7 @@
 > ~The Noble Qur'an, Surah Luqman 31
 
 - [Eat](#eat)
+  - [Gluttony](#gluttony)
 - [Drink](#drink)
 - [Sneezing](#sneezing)
 - [Burp](#burp)
@@ -14,7 +15,8 @@
 
 
 # Eat
-
+## Gluttony
+1. Al-Hasan reported: Umar ibn al-Khattab, may Allah be pleased with him, saw a man with a large belly and he said, "What is this?" The man said, "It is a blessing from Allah.” Umar said, “No, rather it is a punishment." ~ [Ḥadīth Muḥammad ibn ‘Abd Allāh al-Anṣārī 42](https://www.abuaminaelias.com/dailyhadithonline/2018/03/04/big-belly-punishment-not-blessing/)
 
 # Drink
 
