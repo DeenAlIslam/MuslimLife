@@ -8,6 +8,7 @@
 
 - [Eat](#eat)
   - [Gluttony](#gluttony)
+  - [Burping and Overeating](#burping-and-overeating)
 - [Drink](#drink)
 - [Sneezing](#sneezing)
 - [Burp](#burp)
@@ -16,7 +17,9 @@
 
 # Eat
 ## Gluttony
-1. Al-Hasan reported: Umar ibn al-Khattab, may Allah be pleased with him, saw a man with a large belly and he said, "What is this?" The man said, "It is a blessing from Allah.” Umar said, “No, rather it is a punishment." ~ [Ḥadīth Muḥammad ibn ‘Abd Allāh al-Anṣārī 42](https://www.abuaminaelias.com/dailyhadithonline/2018/03/04/big-belly-punishment-not-blessing/)
+1. > Al-Hasan reported: Umar ibn al-Khattab, may Allah be pleased with him, saw a man with a large belly and he said, "What is this?" The man said, "It is a blessing from Allah." Umar said, "No, rather it is a punishment." ~ [Ḥadīth Muḥammad ibn ‘Abd Allāh al-Anṣārī 42](https://www.abuaminaelias.com/dailyhadithonline/2018/03/04/big-belly-punishment-not-blessing/)
+## Burping and Overeating
+1. > Abu Juhayfah reported: I ate a stew of bread and fattened meat. Then, I came to the Prophet, peace and blessings be upon him, and I belched loudly. The Prophet said, "Restrain your belching. Verily, those who ate to their fill the most in this world will be the hungriest in the Hereafter." ~ [al-Mu’jam al-Kabīr 17837](https://www.abuaminaelias.com/dailyhadithonline/2013/12/26/restrain-burping-no-overeating/)
 
 # Drink
 
