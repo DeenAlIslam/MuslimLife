@@ -100,5 +100,9 @@ A man came to the Prophet (ﷺ) and said, "My brother has some Abdominal trouble
 
 ### Extra Vereses from Quran
 
+1. Ayat as Sihr:: Surah Baqarah 2: Verse 102
+2. Surah Yunus 10 : Verse 79
+3. Sura Taha 20 : Verse 65
+
 
 
