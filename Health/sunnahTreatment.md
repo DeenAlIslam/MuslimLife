@@ -17,6 +17,7 @@
 - [Ruqya](#ruqya)
   - [Quran Verses for Ruqya](#quran-verses-for-ruqya)
   - [Dua for Ruqya](#dua-for-ruqya)
+  - [Extra Vereses from Quran](#extra-vereses-from-quran)
 # Introduction
 
 > The Prophet saw said, "There is no disease that Allah has created, except that He also has created its treatment."  Sahih Al Bukhari Volume 7, Book 71, Number 582     
@@ -95,5 +96,9 @@ A man came to the Prophet (ﷺ) and said, "My brother has some Abdominal trouble
 5. A’uzu bi-kalimatillahit-Tammatillati la yujawizuhunna barrun wa la fajirun min sharri ma yanzilu minas-sama‘i wa ma ya’ruju fiha. Wa min sharri ma zara‘a fil-ardi wa ma yakhruju minha. Wa min sharri fitanil-laili wa fitanin-nahari. Wa min sharri tawariqil-laili wan-nahari illa tariqan yatruqu bi khairin, Ya Rahman! [ 'Auzu (for myself) / 'Uiju (for you) ]
 6. Bismillahi Yubrika [ Yubriki (fem) / Yubrikum (pl) ], Wa min Kulli Daa-in Yushfiika [ Yushfiiki (fem) / Yushfiikum (pl) ], Wa min Sharri Hasidin Eeza hasad, Wa min Sharre kulli Zee Ayneen.
 7. Bismillahi arqeek [ Arqiki (fem) / Arqikum (pl) ] , min kulli shay’in yu’dheek [ yu’dheeki (fem) / yu’dheekum (pl) ] , min sharri kulli nafsin aw ‘aynin haasid, Allaahu yashfeek, Bismillaahi arqeek [ Arqiki (fem) / Arqikum (pl) ].
-8.  
+8.  As’alullahal-‘Azima Rabbal-‘Arshil-‘Azimi, an yashfiyaka [ Yashfiki (fem) / Yashfikum (Pl) ].
+
+### Extra Vereses from Quran
+
+
 
