@@ -32,3 +32,7 @@
 
 ## Behaviour
 ### Sabr
+1. > "Only those who endure patiently will be given their reward without limit." ~[The Magnificent Qur'an 39:10]
+
+
+   
