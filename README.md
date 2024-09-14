@@ -16,11 +16,11 @@
   - Economics: Financial Literacy and Islamic Finance, Islamic Banking & Halal Investments, Entrepreneurship and Business Management,  Debt Management & Savings
   - Math: Algebra, Geometry, Trigonometry, Probability and Statistics, Number Theory, Discrete Mathematics, Mathematical Logic, Calculus, Linear Programming & Optimization,  etc
   - Computer: Understanding Technologies, Coding, Scripting, Development, Use of different tool, Use of different modern techs , Breaking and Making, Cybersecurity & Data Privacy, Artificial Intelligence, Robotics, & Machine Learning etc [Syllabus must be continously updating on professional standards] [Focused on Job creation and core knowledge]
-  - Physics:
-  - Biology:
-  - Chemistry:
+  - Physics: Classical Mechanics, Electromagnetism, Thermodynamics, Optics, Quantum Mechanics, Nuclear Physics, Astrophysics, Fluid Mechanics etc
+  - Biology: Cell Biology, Molecular Biology, Genetics, Evolutionary Biology, Ecology, Human Anatomy and Physiology, Microbiology, Biotechnology, Botany and Plant Sciences, Zoology etc
+  - Chemistry: Physical Chemistry, Organic Chemistry, Inorganic Chemistry, Analytical Chemistry, Biochemistry, Environmental Chemistry, Polymer Chemistry, Industrial Chemistry, Nuclear Chemistry etc
   - Geography: Human Geography, Physical Geography and Environmental Geography etc  [Cultural Geography, Economic Geography, Political Geography, Urban Geography, Population Geography, Geomorphology, Climatology, Biogeography, Pedology, Hydrology etc]
-  - 
+
 
 
 ## Social Short Tips
