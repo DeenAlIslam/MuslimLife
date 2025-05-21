@@ -26,26 +26,30 @@
 ## Drink
 ## Sneezing
 
-## Charity
-### Water
+--- 
+# Charity
+## Water
 1. > "I said: 'O Messenger of Allah, what charity is best?' He said: 'Giving water to drink.' ~ [Sunan Ibn Majah 3684](https://sunnah.com/ibnmajah:3684) 
 
-## Behaviour
-### Sabr
+--- 
+# Behaviour
+## Sabr
 1. > "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient"  ~[The Magnificent Qur'an 2:155]
 2. > "And those who observe patience in order to seek the pleasure of their Lord, and establish prayer and spend from what We have provided for them secretly and publicly and prevent evil with good - Theirs will be the sequel of the (heavenly) Home." ~[The Magnificent Qur'an 13:22]
 3. > "[As luqman said to his son] O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you. Indeed, [all] that is of the matters [requiring] determination." ~[The Magnificent Qur'an 31:17]
 4. > "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient."  ~[The Magnificent Qur'an 2:153]
 5. > "When you ˹believers˺ are touched with good, they grieve; but when you are afflicted with evil, they rejoice. And if you are patient and fear Allah, their plot will not harm you at all. Indeed, Allah is encompassing of what they do."  ~[The Magnificent Qur'an 3:120]
 
+--- 
+# Saving
+## Water Saving
+--- 
+# Business
+## Truthfulness is Business 
 
-## Saving
-### Water Saving
+---
+# Kindness
+## Animal
 
-## Business
-### Truthfulness is Business 
-
-### Animal
-
-### Plant 
+## Plant 
 
